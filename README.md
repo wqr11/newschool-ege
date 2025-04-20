@@ -4,9 +4,41 @@
 
 ## Функции
 
-##### Свойства степеней и корней. Формулы сокращённого умножения
+###### Свойства степеней и корней. Формулы сокращённого умножения
 
-- ##### Логарифмическая функция. Свойства логарифмов
+###### Логарифмическая функция. Свойства логарифмов
+
+## Задачи с параметров
+
+###### Основы / база
+
+- [Видео](https://vkvideo.ru/video-226866178_456241395?list=ln-G2RNWLEZVC3Db96zr6&ref_domain=thenewschool.ru)
+
+###### Графический метод в задачах с параметрами
+
+- [Часть 1](https://vkvideo.ru/video-226866178_456241396?list=ln-DJG0kJAidNOhWZgeuq&ref_domain=thenewschool.ru)
+
+- [Часть 2](https://vkvideo.ru/video-226866178_456241397?list=ln-4C7GBFvPLoAqe1S1rP&ref_domain=thenewschool.ru)
+
+###### Практикум по графическому методу в задаче с параметром
+
+- [Стрим](https://vkvideo.ru/video-226866178_456241408?list=ln-XPwzD7Lh4JJk92WqcT&ref_domain=thenewschool.ru)
+
+###### Аналитический метод решения задач с параметром
+
+- [Видео](https://vkvideo.ru/video-226866178_456241533?list=ln-dh0LZ87gfGHCJQZCNO&ref_domain=thenewschool.ru)
+
+###### Параметр с единственным решением (полноценная теория для параметра)
+
+- [Видео](https://vkvideo.ru/video-226866178_456241534?list=ln-rwpIvZSzXQohkqAC5z&ref_domain=thenewschool.ru)
+
+###### Практика по задачам с параметром с единственным решением
+
+- [Стрим](https://vkvideo.ru/video-226866178_456241546?list=ln-6GuYiiYup2BTwyQrX7&ref_domain=thenewschool.ru)
+
+###### Практика по аналитическому методу решения параметра
+
+- [Видео](https://vkvideo.ru/video-226866178_456241597?list=ln-MwQZfzw9Di6SKmac0K&ref_domain=thenewschool.ru)
 
 ---
 
