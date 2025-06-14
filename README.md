@@ -212,33 +212,39 @@
 
 ###### Практика. Стримы.
 
-- [18 мая](https://thenewschool.ru/lesson/14213)
-- [14 мая](https://thenewschool.ru/lesson/14210) 
-- [Работаем с текстом вместе](https://thenewschool.ru/lesson/14211)
-- [7 мая](https://thenewschool.ru/lesson/14207)
-- [30 апреля](https://thenewschool.ru/lesson/12901)
-- [23 апреля](https://thenewschool.ru/lesson/12898)
-- [16 апреля](https://thenewschool.ru/lesson/12895)
-- [9 апреля](https://thenewschool.ru/lesson/12892)
-- [2 апреля](https://thenewschool.ru/lesson/12889)
-- [26 марта](https://thenewschool.ru/lesson/12302)
+- [18 мая](https://vkvideo.ru/video-226866178_456241806?list=ln-zpo8Je7uZg0DG0xGW5&ref_domain=thenewschool.ru)
+- [14 мая](https://vkvideo.ru/video-226866178_456241793?list=ln-QusZRZj87kvAeOOA6K&ref_domain=thenewschool.ru) 
+- [Работаем с текстом вместе](https://vkvideo.ru/video-226866178_456241782?list=ln-PZq3kbNjkQt4DufeRY&ref_domain=thenewschool.ru)
+- [7 мая](https://vkvideo.ru/video-226866178_456241763?list=ln-7o8vNYlxl5AzdeHeWB&ref_domain=thenewschool.ru)
+- [30 апреля](https://vkvideo.ru/video-226866178_456241502?list=ln-AzaZRdoqDkbDuO5NM4&ref_domain=thenewschool.ru)
+- [23 апреля](https://vkvideo.ru/video-226866178_456241501?list=ln-zZzzAz0cLLcBhSoxcM&ref_domain=thenewschool.ru)
+- [16 апреля](https://vkvideo.ru/video-226866178_456241500?list=ln-mXyoIXoz7Tf5IBfyQw&ref_domain=thenewschool.ru)
+- [9 апреля](https://vkvideo.ru/video-226866178_456241499?list=ln-V5cddDA9eDMpSZDoLI&ref_domain=thenewschool.ru)
+- [2 апреля](https://vkvideo.ru/video-226866178_456241498?list=ln-s2wRDTucQncsANaCc6&ref_domain=thenewschool.ru)
+- [26 марта](https://vkvideo.ru/video-226866178_456241373?list=ln-vnzCB8gGUEM4RVrSCb&ref_domain=thenewschool.ru)
 
 ###### Задание 3. Стилистический анализ
 
-- [Видео](https://thenewschool.ru/lesson/12904)
+- [Часть 1](https://vkvideo.ru/video-226866178_456240107?list=ln-JlI4iLNLChpAaomYZm&ref_domain=)
+- [Часть 2](https://vkvideo.ru/video-226866178_456240108?list=ln-0J9pz1JtKNgfYVd9Kj&ref_domain=)
 
 ###### Задание 2. Лексическое значение слова
 
-- [Видео](https://thenewschool.ru/lesson/12903)
+- [Видео](https://vkvideo.ru/video-226866178_456240156?list=ln-RzVltXAYm5COOlzZtN&ref_domain=)
 
 ###### Задание 26. Средства связи предложений в тексте
 
-- [Видео](https://thenewschool.ru/lesson/12902)
+- [Видео](https://vkvideo.ru/video-226866178_456241448?list=ln-3jy2aWQ3QTZfeIrhhJ&ref_domain=thenewschool.ru)
 
 
 ###### Задание 1. Подбор пропущенного словае
 
-- [Видео](https://thenewschool.ru/lesson/12831)
+- [Частицы](https://vkvideo.ru/video-226866178_456240023?list=ln-iwxia53sxFMxQZk5Le&ref_domain=)
+- [Местоимения](https://vkvideo.ru/video-226866178_456240025?list=ln-ekcEagnG7ZjpvBXDeX&ref_domain=)
+- [Наречия](https://vkvideo.ru/video-226866178_456240026?list=ln-iqWrgwRN57zXG1C4tJ&ref_domain=)
+- [Союзы](https://vkvideo.ru/video-226866178_456240028?list=ln-Ce8w6dzPOuzWzRtz14&ref_domain=)
+- [Предлоги](https://vkvideo.ru/video-226866178_456240029?list=ln-AAhRAkkY7kql0EmQkj&ref_domain=)
+- [Вводные слова](https://vkvideo.ru/video-226866178_456240030?list=ln-uIpDTU3SXEWzcF9FMO&ref_domain=)
 
 
 ###### Задание 25. Лексика
@@ -253,4 +259,13 @@
 
 - [Видео](https://thenewschool.ru/lesson/12300)
 
+### Орфоэпия, лексика, грамматика
 
+###### ОЛГ. Решаем вместе
+
+- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
+- [Практика 2. ОЛГ](https://thenewschool.ru/lesson/12922)
+- [Практика. Обобщение](https://thenewschool.ru/lesson/14212)
+- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
+- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
+- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
