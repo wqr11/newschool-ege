@@ -249,23 +249,58 @@
 
 ###### Задание 25. Лексика
 
-- [Видео](https://thenewschool.ru/lesson/12829)
+- [Файл с фразеологизмами](https://storage.yandexcloud.net/newschool-media-prod/lesson/files/e86d765b-fa28-416e-b732-d2ad503186e3.pdf)
 
 ###### Задание 24. Типы текста, логические связи
 
-- [Видео](https://thenewschool.ru/lesson/12301)
+- [Видео](https://vkvideo.ru/video-226866178_456241338?list=ln-Gugy8S8KSTp3iElzq0&ref_domain=thenewschool.ru)
 
 ###### Задание 23. Соответствие содержанию текста
 
-- [Видео](https://thenewschool.ru/lesson/12300)
+- [Видео](https://vkvideo.ru/video-226866178_456241337?list=ln-hcimd9MdLrrorjR3kX&ref_domain=thenewschool.ru)
 
 ### Орфоэпия, лексика, грамматика
 
 ###### ОЛГ. Решаем вместе
+- [Практика. ОЛГ](https://vkvideo.ru/video-226866178_456241783?list=ln-7tf2t381re3HU4UPzJ&ref_domain=thenewschool.ru)
 
-- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
-- [Практика 2. ОЛГ](https://thenewschool.ru/lesson/12922)
-- [Практика. Обобщение](https://thenewschool.ru/lesson/14212)
-- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
-- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
-- [Практика. ОЛГ](https://thenewschool.ru/lesson/14212)
+###### ОЛГ. Решаем вместе 2
+- [Практика. ОЛГ](https://vkvideo.ru/video-226866178_456241627?list=ln-EvczZKtA9pKqSHDV4V&ref_domain=thenewschool.ru)
+
+###### Практика. Обобщение
+- [Практика. Обобщение](https://vkvideo.ru/video-226866178_456240498?list=ln-W5b3AeoWZmeGOrOXfs&ref_domain=thenewschool.ru)
+
+###### Задание 22. Средства выразительности речи
+- [Видео 1](https://vkvideo.ru/video-226866178_456239923?list=ln-WltR62BZMkVnvZbERC&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239924?list=ln-slYl3lrUQqbmjcjm4g&ref_domain=thenewschool.ru)
+- [Видео 3](https://vkvideo.ru/video-226866178_456239925?list=ln-NjkSHVJw6FmfcuU1wk&ref_domain=thenewschool.ru)
+- [Видео 4](https://vkvideo.ru/video-226866178_456239940?list=ln-UFXm9vZJFwpsXLYzf6&ref_domain=thenewschool.ru)
+
+###### Задание 8. Грамматические ошибки
+- [Видео 1](https://vkvideo.ru/video-226866178_456239859?list=ln-wEnN1zv354T3nziMNk&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239860?list=ln-ZEjhxOJNSUGHaaLZpd&ref_domain=thenewschool.ru)
+
+###### Задание 7. Образование форм
+- [Видео 1](https://vkvideo.ru/video-226866178_456239755?list=ln-mI8KAqKiE21yJRU31U&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239757?list=ln-RwDYOi2bt9kcnSiEZm&ref_domain=thenewschool.ru)
+- [Видео 3](https://vkvideo.ru/video-226866178_456239798?list=ln-XCP64f0lC3BMRnwo1J&ref_domain=thenewschool.ru)
+- [Видео 4](https://vkvideo.ru/video-226866178_456239799?list=ln-Ptx3OyJfayYBMVKKO6&ref_domain=thenewschool.ru)
+
+###### Практика по Заданию 6 + Сочинение ЕГЭ
+- [Стрим](https://vkvideo.ru/video-226866178_456240497?list=ln-U1sK5lW4OPkBMhuPp7&ref_domain=thenewschool.ru)
+
+###### Задание 5. Паронимы
+- [Видео 1](https://vkvideo.ru/video-226866178_456239366?list=ln-vEg0FcThecgKlEPIPm&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239367?list=ln-kojwL26ZFMIrJvzr1C&ref_domain=thenewschool.ru)
+- [Видео 3](https://vkvideo.ru/video-226866178_456239414?list=ln-oerzkI24SLgC4jiovb&ref_domain=thenewschool.ru)
+- [Видео 4](https://vkvideo.ru/video-226866178_456239414?list=ln-oerzkI24SLgC4jiovb&ref_domain=thenewschool.ru)
+- [Видео 5](https://vkvideo.ru/video-226866178_456239500?list=ln-4l1iNZxkwlh0aWGshZ&ref_domain=thenewschool.ru)
+- [Видео 6](https://vkvideo.ru/video-226866178_456239509?list=ln-6nzIs15eHdTvqDcmpz&ref_domain=thenewschool.ru)
+
+###### Задание 4. Ударения
+- [Видео 1](https://vkvideo.ru/video-226866178_456239327?list=ln-xjG77qxBUgnSrTyeMR&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239328?list=ln-f7E9mlt3lu8ZkNFgTf&ref_domain=thenewschool.ru)
+
+###### Задание 6. Лексические ошибки
+- [Видео 1](https://vkvideo.ru/video-226866178_456239703?list=ln-3OlHZ3ciyCdG67xkZU&ref_domain=thenewschool.ru)
+- [Видео 2](https://vkvideo.ru/video-226866178_456239704?list=ln-gO4eCtYMtQhCvZIx4j&ref_domain=thenewschool.ru)
