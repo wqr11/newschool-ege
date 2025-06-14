@@ -210,6 +210,19 @@
 
 ### Работа с текстом
 
+###### Практика. Стримы.
+
+- [18 мая](https://thenewschool.ru/lesson/14213)
+- [14 мая](https://thenewschool.ru/lesson/14210) 
+- [Работаем с текстом вместе](https://thenewschool.ru/lesson/14211)
+- [7 мая](https://thenewschool.ru/lesson/14207)
+- [30 апреля](https://thenewschool.ru/lesson/12901)
+- [23 апреля](https://thenewschool.ru/lesson/12898)
+- [16 апреля](https://thenewschool.ru/lesson/12895)
+- [9 апреля](https://thenewschool.ru/lesson/12892)
+- [2 апреля](https://thenewschool.ru/lesson/12889)
+- [26 марта](https://thenewschool.ru/lesson/12302)
+
 ###### Задание 3. Стилистический анализ
 
 - [Видео](https://thenewschool.ru/lesson/12904)
